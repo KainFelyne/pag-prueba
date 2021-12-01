@@ -1,0 +1,25 @@
+.callout{
+    background-color: #F0F0F0;
+}
+
+.image{
+    background: url('website2.jpg');
+   
+}
+
+.contact-button{
+    text-decoration: underline;
+}
+
+:hover.contact-button{
+    text-decoration: none;
+}
+
+.link-footer{
+    color: white;
+}
+
+:hover.link-footer{
+    color: white;
+    text-decoration: none;
+}
